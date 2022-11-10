@@ -1,0 +1,25 @@
+.userSection {
+    margin-top:24px;
+    border-top: 1px solid hsl(215, 32%, 27%);
+    
+}
+
+.avatarPhoto {
+    width:33px;
+    object-fit:contain;
+    margin-right:16px;
+}
+
+.userDetails {
+    font-size:16px;
+    color: hsl(215, 51%, 70%);
+    display:flex;
+    align-items: center;
+    margin-top:16px;
+}
+
+.userName {
+    color:hsl(0, 0%, 100%);
+    font-weight:400;
+    margin-left:5px;
+}

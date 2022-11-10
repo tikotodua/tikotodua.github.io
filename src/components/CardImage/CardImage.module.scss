@@ -1,0 +1,22 @@
+.imageWidth {
+    width: 100%;
+}
+.imageWrapper {
+    position:relative;
+    width:100%;
+}
+
+.overlay {
+    position:absolute;
+    background-color:rgba(0, 255, 248, 0.5);
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+    visibility: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
